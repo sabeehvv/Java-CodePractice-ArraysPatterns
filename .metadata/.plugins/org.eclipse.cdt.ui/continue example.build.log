@@ -1,0 +1,7 @@
+10:28:49 **** Rebuild of configuration Debug for project continue example ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\break and continue.o" "..\\src\\break and continue.c" 
+gcc -o "continue example.exe" "src\\break and continue.o" 
+
+10:28:49 Build Finished. 0 errors, 0 warnings. (took 399ms)
+

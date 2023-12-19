@@ -1,0 +1,7 @@
+15:47:05 **** Incremental Build of configuration Debug for project character using array string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\character using array string.o" "..\\src\\character using array string.c" 
+gcc -o "character using array string.exe" "src\\character using array string.o" 
+
+15:47:05 Build Finished. 0 errors, 0 warnings. (took 337ms)
+

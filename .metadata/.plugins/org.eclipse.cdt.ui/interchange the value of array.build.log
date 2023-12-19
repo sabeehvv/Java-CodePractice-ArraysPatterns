@@ -1,0 +1,7 @@
+14:19:28 **** Incremental Build of configuration Debug for project interchange the value of array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\interchange the value of array.o" "..\\src\\interchange the value of array.c" 
+gcc -o "interchange the value of array.exe" "src\\interchange the value of array.o" 
+
+14:19:29 Build Finished. 0 errors, 0 warnings. (took 316ms)
+

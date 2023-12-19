@@ -1,0 +1,7 @@
+17:54:26 **** Incremental Build of configuration Debug for project total mark grade ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\total mark grade.o" "..\\src\\total mark grade.c" 
+gcc -o "total mark grade.exe" "src\\total mark grade.o" 
+
+17:54:26 Build Finished. 0 errors, 0 warnings. (took 315ms)
+

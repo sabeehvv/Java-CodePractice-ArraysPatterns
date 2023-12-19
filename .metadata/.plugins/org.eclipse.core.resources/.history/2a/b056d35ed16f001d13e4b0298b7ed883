@@ -1,0 +1,18 @@
+package paternPrinting;
+
+import java.util.Scanner;
+
+public class Paternsample {
+	
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter Limit");
+		int num=sc.nextInt();
+		int i,j,h;
+		for(i=0;i<num;i++) {
+			for(j=i;j<num;j++) {
+				System.out.print("* ");{for(h=1;h<=i;h++) {
+						System.out.println("* ");}}
+			}System.out.println();}
+
+}}

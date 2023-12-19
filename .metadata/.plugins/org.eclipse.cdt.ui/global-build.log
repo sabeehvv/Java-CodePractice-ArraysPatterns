@@ -1,0 +1,165 @@
+16:06:09 **** Rebuild of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+16:06:30 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:27:8: warning: unused variable 'j'
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+16:07:39 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+16:08:47 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:33:2: warning: return makes integer from pointer without a cast
+..\src\accept array using function.c:33:2: warning: function returns address of local variable
+..\src\accept array using function.c:34:1: warning: control reaches end of non-void function
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+16:09:10 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:33:2: warning: return makes integer from pointer without a cast
+..\src\accept array using function.c:33:2: warning: function returns address of local variable
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+16:15:25 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:32:1: error: expected declaration or statement at end of input
+..\src\accept array using function.c:32:1: warning: control reaches end of non-void function
+16:16:31 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:33:1: warning: control reaches end of non-void function
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+16:17:22 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:33:2: warning: return makes integer from pointer without a cast
+..\src\accept array using function.c:33:2: warning: function returns address of local variable
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+16:18:59 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:36:1: warning: control reaches end of non-void function
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+Info: Nothing to build for accept array using function
+16:21:22 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:35:2: error: expected declaration or statement at end of input
+..\src\accept array using function.c:35:2: warning: control reaches end of non-void function
+16:21:32 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:35:2: warning: control reaches end of non-void function
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+16:23:40 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:35:2: warning: control reaches end of non-void function
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+16:25:53 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'main':
+..\src\accept array using function.c:22:20: error: subscripted value is neither array nor pointer
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:37:1: warning: control reaches end of non-void function
+16:26:43 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:37:1: warning: control reaches end of non-void function
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+16:28:23 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:36:1: warning: control reaches end of non-void function
+..\src\accept array using function.c: In function 'main':
+..\src\accept array using function.c:21:8: warning: 'i' is used uninitialized in this function
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+16:30:23 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'main':
+..\src\accept array using function.c:21:2: warning: format '%d' expects type 'int', but argument 2 has type 'int *'
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:36:1: warning: control reaches end of non-void function
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+16:34:23 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'main':
+..\src\accept array using function.c:21:2: warning: format '%d' expects type 'int', but argument 2 has type 'int *'
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:36:1: warning: control reaches end of non-void function
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+16:34:51 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:36:1: warning: control reaches end of non-void function
+..\src\accept array using function.c: In function 'main':
+..\src\accept array using function.c:21:8: warning: 'i' is used uninitialized in this function
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+16:36:11 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:38:1: warning: control reaches end of non-void function
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+16:41:29 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:38:1: warning: control reaches end of non-void function
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+16:43:10 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:38:1: warning: control reaches end of non-void function
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+Info: Nothing to build for accept array using function
+Info: Nothing to build for accept array using function
+16:44:17 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:38:1: warning: control reaches end of non-void function
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+18:50:15 **** Rebuild of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+..\src\accept array using function.c: In function 'main':
+..\src\accept array using function.c:17:22: warning: unused variable 'i'
+..\src\accept array using function.c:17:11: warning: unused variable 'array'
+..\src\accept array using function.c: In function 'getArray':
+..\src\accept array using function.c:32:3: warning: format '%d' expects type 'int *', but argument 2 has type 'int'
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+18:54:35 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+18:55:07 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 
+18:55:27 **** Incremental Build of configuration Debug for project accept array using function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\accept array using function.o" "..\\src\\accept array using function.c" 
+gcc -o "accept array using function.exe" "src\\accept array using function.o" 

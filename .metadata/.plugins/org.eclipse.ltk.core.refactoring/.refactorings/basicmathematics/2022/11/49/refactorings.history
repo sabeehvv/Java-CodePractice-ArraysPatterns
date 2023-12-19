@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Functions.java&apos; to &apos;swingCalculator/src/swingCalculator&apos;&#x0D;&#x0A;- Original project: &apos;basicmathematics&apos;&#x0D;&#x0A;- Destination element: &apos;swingCalculator/src/swingCalculator&apos;&#x0D;&#x0A;- Original element: &apos;basicmathematics.Functions.java&apos;" description="Copy compilation unit" destination="=swingCalculator/src&lt;swingCalculator" element1="/src&lt;basicmathematics{Functions.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1669621997720" units="1" version="1.0"/>
+</session>

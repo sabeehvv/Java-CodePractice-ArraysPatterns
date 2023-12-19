@@ -1,0 +1,45 @@
+package array2DwithFunction;
+
+import java.util.Scanner;
+
+public class Function {
+	int array1[][]=new int[100][100],array2[][]=new int[100][100],sumarray[][]=new int [100][100];
+	int i,j,size;
+	
+	
+	void getarray() {
+		
+		Scanner s=new Scanner(System.in);
+		System.out.println("enter the size of array");
+		size=s.nextInt();
+		System.out.println("Enter the values of array1 :");
+		for(i=0;i<size;i++) {
+			for(j=0;j<size;j++) {
+			array1[i][j]=s.nextInt();
+			}
+		}
+		System.out.println("Enter the values of array 2");
+		for(i=0;i<size;i++) {
+			for(j=0;j<size;j++) {
+				array2[i][j]=s.nextInt();
+			}
+		}
+		
+	}
+	
+	void addArray() {
+		for(i=0;i<size;i++) {
+			for(j=0;j<size;j++) {
+				sumarray[i][j]=array1[i][j]+array2[i][j];
+			}
+		}
+	}
+	void displayArray() {
+		for(i=0;i<size;i++) {
+			for(j=0;j<size;j++) {
+				System.out.println(sumarray[i][j]);
+			}
+		}
+	}
+
+}

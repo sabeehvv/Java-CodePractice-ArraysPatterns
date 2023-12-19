@@ -1,0 +1,7 @@
+10:28:53 **** Rebuild of configuration Debug for project array input ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\array input.o" "..\\src\\array input.c" 
+gcc -o "array input.exe" "src\\array input.o" 
+
+10:28:59 Build Finished. 0 errors, 0 warnings. (took 6s.566ms)
+

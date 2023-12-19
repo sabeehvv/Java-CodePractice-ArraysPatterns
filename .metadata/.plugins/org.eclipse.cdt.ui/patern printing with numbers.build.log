@@ -1,0 +1,7 @@
+14:18:46 **** Rebuild of configuration Debug for project patern printing with numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\patern printing with numbers.o" "..\\src\\patern printing with numbers.c" 
+gcc -o "patern printing with numbers.exe" "src\\patern printing with numbers.o" 
+
+14:18:47 Build Finished. 0 errors, 0 warnings. (took 416ms)
+

@@ -1,0 +1,7 @@
+15:36:21 **** Incremental Build of configuration Debug for project prime numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\prime numbers.o" "..\\src\\prime numbers.c" 
+gcc -o "prime numbers.exe" "src\\prime numbers.o" 
+
+15:36:21 Build Finished. 0 errors, 0 warnings. (took 341ms)
+

@@ -1,0 +1,7 @@
+16:44:31 **** Incremental Build of configuration Debug for project patern printing oposite ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\patern printing oposite.o" "..\\src\\patern printing oposite.c" 
+gcc -o "patern printing oposite.exe" "src\\patern printing oposite.o" 
+
+16:44:31 Build Finished. 0 errors, 0 warnings. (took 318ms)
+
